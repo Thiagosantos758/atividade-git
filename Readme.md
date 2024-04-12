@@ -5,4 +5,4 @@ Agora que atualizei e retirei o conteúdo acidental do arquivo, já posso public
 
 Aqui eu estou inserindo a imagem ao projeto
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FRayssa_Leal&psig=AOvVaw2OyvAQjei2qyfhs-rcVBAd&ust=1713017848931000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND50fTuvIUDFQAAAAAdAAAAABAE" />](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FRayssa_Leal&psig=AOvVaw2OyvAQjei2qyfhs-rcVBAd&ust=1713017848931000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND50fTuvIUDFQAAAAAdAAAAABAE)
+![Rayssa Leal](https://s2-oglobo.glbimg.com/hnaqI5AwZlna8-RoyUnZ_hT_RAc=/0x0:5616x3744/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/F/5/f1VANTQKqU5jUvaPjUyg/101957325-rayssa-leal-of-brazil-celebrates-winning-the-womens-final-in-the-skateboarding-street-wor-1-.jpg)
